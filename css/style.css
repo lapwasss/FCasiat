@@ -198,7 +198,7 @@ body {
   /** media queries  */
   @media screen and (min-width: 601px) {
     h1.title {
-      font-size: 20px;
+      font-size: 40px;
     }
   }
   
