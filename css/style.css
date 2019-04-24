@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Quicksand'); /** Button */
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
 
 body {
     margin: 0;
@@ -120,13 +121,13 @@ body {
     background-image: linear-gradient(to bottom, #497ccb, #6174d1, #7e68d2, #9d58cd, #ba41c0);  }
 
   .container form .labels label:nth-child(4) {
-    background-image: linear-gradient(to bottom, #ba41c0, #ae31c8, #9d22d2, #8615dd, #650fe9);
+    background-image: linear-gradient(to bottom, #ba41c0, #a646bc, #934ab7, #814bb0, #704ca8);
     color: white !important;
   }
   
   body {
-    font-family: "Open sans", sans-serif;
-    font-size: 16px;
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
     font-weight: 100;
     color: white;
   }
